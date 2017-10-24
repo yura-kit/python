@@ -11,4 +11,4 @@ dependencies:
     - ipywidgets=6.0.0
 
     - pip:
-        - git+https://github.com/ellisonbg/ipyleaflet
+        - git+https://github.com/ellisonbg/ipyleaflet.git#egg=ipyleaflet
