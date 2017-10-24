@@ -1,0 +1,14 @@
+name: example-environment
+
+dependencies:
+    - python=2.7.12
+    - numpy=1.11.3
+    - ipywidgets=6.0.0
+    - pandas=0.19.2
+    - ipyleaflet=0.3.0
+    - shapely=1.5.17
+    - plotly=2.0.8
+    - ipywidgets=6.0.0
+
+    - pip:
+        - git+https://github.com/ellisonbg/ipyleaflet.git#egg=ipyleaflet
