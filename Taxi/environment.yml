@@ -9,3 +9,6 @@ dependencies:
     - shapely=1.5.17
     - plotly=2.0.8
     - ipywidgets=6.0.0
+
+    - pip:
+        - git+https://github.com/ellisonbg/ipyleaflet
